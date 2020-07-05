@@ -1,0 +1,25 @@
+{
+  "name": "astral-nexus",
+  "version": "0.1.0",
+  "description": "An all-in-one desktop RPG simulator/maker, with built-in logic for creating campaigns, characters, items, and more.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g1hanna/astral-nexus.git"
+  },
+  "keywords": [
+    "astral-nexus",
+    "RPG",
+    "DnD5e",
+    "desktop"
+  ],
+  "author": "Gabriel Hanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g1hanna/astral-nexus/issues"
+  },
+  "homepage": "https://github.com/g1hanna/astral-nexus#readme"
+}
